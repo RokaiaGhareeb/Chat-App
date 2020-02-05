@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![GIF of the APP](ezgif.com-video-to-gif (2).gif | width =  280 )
+![GIF of the APP |512x397](ezgif.com-video-to-gif (2).gif)
