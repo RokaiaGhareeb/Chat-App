@@ -7,4 +7,4 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
-<img src="app.gif" width = "50" height = "100">
+<img src="app.gif" width = "215" height = "215">
