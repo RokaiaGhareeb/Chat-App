@@ -6,4 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![GIF of the APP , width=25 , height = 50](app.gif)
+
+<img src="app.gif" width = "50" height = "100">
