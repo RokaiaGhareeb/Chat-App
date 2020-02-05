@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![GIF of the APP](app.gif)
+![GIF of the APP](app.gif | width=100)
